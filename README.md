@@ -56,6 +56,23 @@ Real captures from a Ryzen 5 5600 + Radeon RX 6700 XT desktop, taken on a phone 
   </tr>
 </table>
 
+### Phone, landscape (desk OSD)
+
+Turn the phone sideways and it becomes a full-screen, no-scroll dashboard that keeps the screen on.
+
+<p align="center">
+  <img src="assets/screenshots/phone-land-dark-metrics.png" width="49%" alt="Phone landscape OSD, dark">
+  <img src="assets/screenshots/phone-land-light-metrics.png" width="49%" alt="Phone landscape OSD, light">
+</p>
+<p align="center">
+  <img src="assets/screenshots/phone-land-dark-processes.png" width="49%" alt="Phone landscape processes, dark">
+  <img src="assets/screenshots/phone-land-light-processes.png" width="49%" alt="Phone landscape processes, light">
+</p>
+<p align="center">
+  <img src="assets/screenshots/phone-land-dark-deck.png" width="49%" alt="Phone landscape deck, dark">
+  <img src="assets/screenshots/phone-land-light-deck.png" width="49%" alt="Phone landscape deck, light">
+</p>
+
 ### Tablet (desk OSD)
 
 <p align="center">
